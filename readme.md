@@ -1,8 +1,6 @@
 # Realtime Pizza Order Tracker - Laravel, Vue & Pusher
 🍕🍕🍕
 
-Code for YouTube video tutorial: [https://www.youtube.com/watch?v=pjK0VMTCtVg](https://www.youtube.com/watch?v=pjK0VMTCtVg)
-
 ## Installation
 
 1. clone the repo and cd into it
